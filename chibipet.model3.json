@@ -9,7 +9,9 @@
 		"Motions": {
 			"Idle": [
 				{
-					"File": "../idle.motion3.json"
+					"File": "idle.motion3.json",
+					"FadeInTime": 0,
+					"FadeOutTime": 0
 				}
 			]
 		}
